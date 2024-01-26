@@ -1,7 +1,14 @@
+#1
+carname = "Volvo"
+
+#2
+x = 50
+
+
 #3
 x = 5
 y = 10
-print(x +y)
+print(x + y)
 
 
 #4
@@ -23,6 +30,5 @@ x = y = z = "Orange"
 #7
 def myfunc():
   
-global
- x
-  x = "fantastic"
+global x
+x = "fantastic"
