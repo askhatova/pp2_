@@ -30,5 +30,5 @@ x = y = z = "Orange"
 #7
 def myfunc():
   
-global x
-x = "fantastic"
+ global x
+ x = "fantastic"
